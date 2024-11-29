@@ -1,0 +1,107 @@
+.signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+    font-family: Arial, sans-serif;
+  }
+  
+  .welcome-section {
+    flex: 1;
+    padding: 50px;
+    color: white;
+    background: linear-gradient(135deg, #fda085 0%, #f6d365 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  
+  .welcome-section h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
+  .welcome-section h2 {
+    margin: 10px 0;
+    font-size: 3rem;
+  }
+  
+  .welcome-section p {
+    font-size: 1rem;
+    max-width: 300px;
+  }
+  
+  .form-section {
+    flex: 1;
+    padding: 50px;
+    background: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .tabs {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .tab {
+    font-size: 1rem;
+    padding: 10px 20px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+  }
+  
+  .tab.active {
+    border-bottom: 2px solid #fda085;
+    color: #fda085;
+  }
+  
+  .signup-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .checkbox-group {
+    display: flex;
+    align-items: center;
+  }
+  
+  .checkbox-group input {
+    margin-right: 10px;
+  }
+  
+  .signup-button {
+    padding: 15px;
+    font-size: 1rem;
+    background: #fda085;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .signup-button:hover {
+    background: #f6d365;
+  }
+  

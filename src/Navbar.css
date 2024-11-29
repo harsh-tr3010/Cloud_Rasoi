@@ -1,0 +1,306 @@
+
+/*  HTML  */
+
+.fonts-loaded {
+    font-family: ProximaNova, arial, Helvetica Neue, sans-serif;
+    letter-spacing: 0;
+}
+
+html {
+    text-size-adjust: 100%;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-weight: 300;
+    color: #282c3f;
+}
+html {
+    box-sizing: border-box;
+    font-family: arial, Helvetica Neue, sans-serif;
+    font-size: 14px;
+    line-height: 1.2;
+    letter-spacing: -.5px;
+    -moz-font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, :after, :before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    -webkit-text-size-adjust: none;
+    -webkit-tap-highlight-color: transparent;
+    -ms-text-size-adjust: none;
+    outline: none;
+}
+html[AttributesStyle] {
+    -webkit-locale: "en";
+}
+
+:root {
+    view-transition-name: root;
+}
+
+html {
+    display: block;
+}
+
+/* HEAD */
+
+*, :after, :before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    -webkit-text-size-adjust: none;
+    -webkit-tap-highlight-color: transparent;
+    -ms-text-size-adjust: none;
+    outline: none;
+}
+
+head {
+    display: none;
+}
+
+/* BODY */
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-weight: 300;
+    color: #282c3f;
+}
+
+body {
+    margin: 0;
+}
+*, :after, :before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    -webkit-text-size-adjust: none;
+    -webkit-tap-highlight-color: transparent;
+    -ms-text-size-adjust: none;
+    outline: none;
+}
+body {
+    display: block;
+    /* margin: 8px; */
+}
+
+/*  whole-background  */
+
+.whole-background {
+    position: relative;
+    padding-top: 80px;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    min-width: 1240px;
+}
+
+/* HEADER SECTION */
+
+.header-section {
+    box-shadow: 0 15px 40px -20px rgba(40, 44, 63, .15);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    background: #fff;
+    z-index: 1000;
+    will-change: transform;
+    transform: translateZ(0);
+    transition: transform .3s ease;
+    contain: size layout style;
+    padding: 0 20px;
+}
+
+/* NAVBAR */
+
+.main-navbar{
+
+}
+
+.interior-navbar{
+    max-width: 1200px;
+    min-width: 1200px;
+    position: relative;
+    margin: 0 auto;
+    height: 80px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+}
+
+/* Address button */
+
+._1tcx6, ._2z2N5 {
+    position: relative;
+}
+
+._2z2N5 {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-left: 30px;
+    max-width: 300px;
+    height: 30px;
+    cursor: pointer;
+    margin-bottom: -1px;
+    padding-right: 10px;
+    letter-spacing: .5px;
+    font-size: 14px;
+}
+
+._1tcx6 {
+    font-weight: 700;
+    color: #3d4152;
+    float: left;
+}
+
+._3odgy {
+    display: block;
+    min-width: 30px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+._1tcx6:after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    left: 0;
+    bottom: -5px;
+    width: 100%;
+    background: #3d4152;
+}
+
+
+/* address bar */
+._3HusE {
+    display: block;
+    padding-left: 5px;
+    margin-left: 5px;
+    color: #686b78;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+
+/* dropdown icon */
+.kVKTT {
+    position: absolute;
+    right: -12px;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-size: .9rem;
+    color: #fc8019;
+    font-weight: 700;
+}
+
+[class*=" icon-"], [class^=icon-] {
+    font-family: icomoon;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-downArrow:before {
+    content: "\E923";
+}
+
+
+/* navbar list */
+._1JNGZ {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    /* margin-left: 200px; */
+    flex-direction: row-reverse;
+    height: 100%;
+    align-items: center;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+._1fo6c:first-child {
+    margin-right: 0;
+}
+._1fo6c {
+    margin-right: 50px;
+    color: #3d4152;
+    font-size: 16px;
+    font-weight: 500;
+    width: 58.2px;
+    height: 80px;
+    margin-left: 10px;
+}
+
+._1fmVk {
+    position: relative;
+    height: 80px;
+}
+
+._2CgXb {
+    position: relative;
+    height: 80px;
+    cursor: pointer;
+}
+
+._1T-E4, ._2CgXb {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-left: 28px;
+}
+
+._1T-E4 {
+    height: 100%;
+    margin-left: -28px;
+    color: inherit;
+}
+
+a, a:focus, a:hover, a:visited {
+    text-decoration: none;
+}
+
+._3yZyp {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    line-height: 0;
+}
+
+.PJaej {
+    color: #ffa700;
+    font-size: 10px;
+    top: 26px;
+    font-weight: 600;
+    position: absolute;
+    right: -24px;
+    text-transform: uppercase;
+}

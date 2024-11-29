@@ -1,0 +1,131 @@
+body {
+    background-color: #c31c17be;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgba(225, 213, 213, 0.523)
+  }
+  
+  .signup-container1 {
+    display: flex;
+    width: 800px;
+    height: 700px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .signup-left {
+    height: 550px;
+    flex: 1;
+    background: url('https://png.pngtree.com/png-clipart/20201208/original/pngtree-delivery-boy-with-food-png-image_5531715.jpg') center center / cover no-repeat;
+    border-radius: 20px 0 0 20px;
+  }
+  
+  .signup-right003 {
+    flex: 1;
+    padding: 40px;
+    text-align: left;
+   
+    
+    
+    
+  }
+  
+  ._dbd004 {
+    font-size: 50px;
+        color: #1a202c;
+        margin-bottom: 10px;
+    }
+  
+  p {
+    color: #4a5568;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    position: relative;
+    margin-bottom: 15px;
+    
+  }
+  
+  label i {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    color: #718096;
+  }
+  
+  input {
+    width: 80%;
+    padding: 10px 10px 10px 40px;
+    border-radius: 10px;
+    border: 1px solid #cbd5e0;
+    background: #edf2f7;
+  }
+  
+  ._aatt005[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #3182ce;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .signup-social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .signup-social p {
+    margin: 0;
+  }
+  
+  .signup-social ._aatt005 {
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .signup-social .google {
+    background-color: #db4437;
+    color: white;
+  }
+  
+  .signup-social .facebook {
+    background-color: #3b5998;
+    color: white;
+  }
+  
+  .login-link {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .login-link a {
+    color: #3182ce;
+    text-decoration: none;
+  }
+  
+  .login-link a:hover {
+    text-decoration: underline;
+  }
+  
+  
+  .deliveryform {
+  
+  }

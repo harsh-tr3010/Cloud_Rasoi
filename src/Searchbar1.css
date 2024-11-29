@@ -1,0 +1,80 @@
+/* SearchBar.css */
+.search-bar-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px; /* Adjusted margin-top for better alignment */
+  }
+  
+  .search-bar-container input {
+    width: 300px;
+    padding: 12px;
+    margin-right: 10px;
+    border: 1px solid #e0e0e0;
+    border-radius: 25px;
+    font-size: 16px;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .search-bar-container input:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 123, 255, 0.2);
+  }
+  
+  .search-bar-container button {
+    padding: 12px 24px;
+    border: none;
+    background-color: #fea116;
+    color: white;
+    font-size: 16px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .search-bar-container button:hover {
+    background-color: #ae6d0b;
+  }
+  
+  .results-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+    width: 100%;
+    max-width: 600px;
+  }
+  
+  .result-item {
+    background-color: white;
+    border: 1px solid #f0f0f0;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .result-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .result-item h3 {
+    margin: 0 0 10px;
+    color: #333;
+    font-size: 18px;
+  }
+  
+  .result-item p {
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  .result-item p.price {
+    font-weight: bold;
+    color: #f56991;
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  

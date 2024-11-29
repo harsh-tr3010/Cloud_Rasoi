@@ -1,0 +1,307 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+._pabm1234{
+    width:1263px;
+    height:1200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+._pabf1234{
+    width:900px;
+    height:1200px;
+    /* background-color: cadetblue; */
+}
+._pahb123{
+    margin-top: 20px;
+    width:900px;
+    height:70px;
+    /* background-color: #fc8019; */
+    display: flex;
+
+}
+._pahm1234{
+    padding-top: 30px;
+    width:850px;
+    height:70px;
+    /* background-color: chartreuse; */
+    text-align: start;
+}
+#paheadinghg112{
+    color: rgb(64, 62, 62);
+}
+._pahv123{
+    width:850px;
+    height:180px;
+    /* background-color: antiquewhite; */
+    margin-top: 20px;
+}
+._pame1234{
+    width:800px;
+    height:160px;
+    /* background-color: aquamarine; */
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+}
+._pad111{
+    width:800px;
+    margin-top: 10px;
+    height:25px;
+    /* background-color: aliceblue; */
+    display: flex;
+
+}
+._palt12{
+    display: flex;
+    /* margin-top: 10px; */
+
+}
+._palg11{
+    width:20px;
+    height:16px;
+    color: green;
+    margin-left: 10px;
+}
+._pact11{
+    width:200px;
+    height:25px;
+    color:black;
+    font-size: 16px;
+    margin-left: 10px;
+}
+._pace121{
+    width:750px;
+    height:30px;
+    /* background-color: brown; */
+    font-size: 17px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+._pacs98{
+    color:red;
+    text-decoration: underline;
+}
+._paot121{
+    width:800px;
+    height:40px;
+    /* background-color: coral; */
+    margin-top: 10px;
+    /* margin-left: 10px; */
+    display:flex;
+    flex-direction: column;
+    font-size: 16x;
+    border-bottom: 1px solid rgb(251, 244, 244);
+}
+#paS{
+    margin-left: 10px;
+}
+.paab12{
+    font-weight: 500;
+    margin-left: 10px;
+}
+.pacycle{
+    width: 800px;height:20px;
+    /* background-color: beige; */
+    display: flex;
+    /* box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px; */
+}
+.paleft-cycle{
+    margin-top: 10px;
+    width: 10%;
+    height:20%;
+    margin-left: 10px;
+}
+.paright-cycle{
+    /* background-color: pink; */
+    margin-left: -60px;
+    margin-top: 10px;
+}
+._pabs1165{
+    margin-top: 20px;
+    width:800px;
+    height:600px;
+    /* background-color: chocolate; */
+}
+._pamu19{
+    width:800px;
+    height:40px;
+    /* background-color: beige; */
+}
+._pahd18{
+    width:100px;
+    height:30px;
+    margin-top: 20px;
+    /* background-color: #686b78; */
+}
+#pah56{
+    margin-top: 10px;
+    font-size: 20px;
+    color: #1b1b1c;
+    font-weight: 200;
+    margin-left: 10px;
+    font-family: cursive;
+}
+._pafy67{
+    width:800px;
+    height:600px;
+    /* background-color: rgb(170, 128, 52); */
+    display: flex;
+    flex-direction: column;
+
+}
+._paup90{
+    width:800px;
+    height: 900px;
+    background-color:white;
+}
+.pafood-div{
+    margin-top: 25px;
+    /* background-color: yellowgreen; */
+    width: 800px;height:150px;
+    display: flex;
+    border:none;
+    border-bottom: 1px solid rgb(187, 186, 186);
+ 
+}
+.paleft-food{
+    width: 70%;height:100%;
+    /* background-color: peachpuff; */
+}
+.paicon-food{
+    color:green;
+}
+._pafe1{
+    font-size: larger;
+    font-weight: 500;
+    margin-left: 10px;
+}
+._papf1{
+    font-size: larger;
+    font-weight: 400;
+    margin-left: 10px;
+}
+._pafd1{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.paright-food{
+    width: 30%;
+    height:100%;
+    /* background-color: orange; */
+}
+._paif1{
+    width: 200px;
+    height: 140px;
+    background-image: url('img/breakfast.jpeg');
+    background-size: cover;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+
+._paifd1{
+    margin-left: 10px;
+}
+._pafe2{
+    font-size: larger;
+    font-weight: 500;
+    margin-left: 10px;
+}
+._papf2{
+    font-size: larger;
+    font-weight: 400;
+    margin-left: 10px;
+}
+._pafd2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+._paif2{
+    width: 200px;
+    height: 140px;
+    background-image: url('img/lunch.jpeg');
+    background-size: cover;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+
+._pafe3{
+    font-size: larger;
+    font-weight: 500;
+    margin-left: 10px;
+}
+._papf3{
+    font-size: larger;
+    font-weight: 400;
+    margin-left: 10px;
+}
+._pafd3{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+._paif3{
+    width: 200px;
+    height: 140px;
+    background-image: url('img/dinner.jpeg');
+    background-size: cover;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+
+._pafe4{
+    font-size: larger;
+    font-weight: 500;
+    margin-left: 10px;
+}
+._papf4{
+    font-size: larger;
+    font-weight: 400;
+    margin-left: 10px;
+}
+._pafd4{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+._paif4{
+    width: 200px;
+    height: 140px;
+    background-image: url('img/special.jpeg');
+    background-size: cover;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+#paadd{
+    width:80px;
+    height:30px;
+    font-size: 20px;
+    text-align: center;
+    color:#fea116;
+    margin-left: 80px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+    border-radius: 6px;
+    border: none;
+    background-color: rgb(248, 246, 243);
+    font-weight: 600;
+    position: absolute;
+    margin-top: -30px;
+}
+#paadd:hover{
+    background-color: #fea116;
+    color:white;
+}

@@ -1,0 +1,164 @@
+.container-new-page{
+    width: 1265px;
+    height: 500px;
+    /* background-color: pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-new-page{
+    /* background-color: blue; */
+    height: 400px;
+    width: 600px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* position: relative;
+    top: 130px;
+    left: 500px; */
+    /* border: none;
+    border-radius: 25px; */
+}
+
+._bx2{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 580px;
+    height: 380px;
+    /* background-color: red; */
+}
+
+.box-new-page1{
+    width: 580px;
+    height: 100px;
+    /* background-color: rgb(235, 228, 228); */
+    border-bottom: 1px solid grey;
+}
+
+.box-new-page2{
+    width: 580px;
+    height: 200px;
+    /* background-color:  rgb(235, 228, 228); */
+    /* position: relative;
+    top: 10px; */
+    /* left: 25px; */
+}
+
+.box-new-page3{
+    width: 580px;
+    height: 80px;
+    display: flex;
+    /* background-color: yellow ; */
+}
+
+
+
+.bnp1-1-1{
+    /* background-color: aquamarine; */
+    justify-content: space-between;
+    display: flex;
+
+    width: 580px;
+    height: 40px;
+    
+}
+
+#paneer{
+    /* margin-top: 90px; */
+    display: inline;
+}
+
+#customise{
+    margin-top: -1px;
+    font-weight: 700;
+    font-size:25px
+}
+
+#quantity{
+    display: inline;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.veg{
+    color: rgb(66, 141, 66);
+}
+
+.radio{
+    /* background-color: blue; */
+    border: none;
+    width: 520px;
+    height: 110px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 20px;
+    /* background-color: burlywood; */
+    font-size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.first-veg{
+    width: 500px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 19px;
+    text-align: left;
+    /* background-color: pink; */
+    display: flex;
+    /* justify-content: space-between; */
+    
+}
+
+.second-veg{
+    width: 500px;
+    height: 40px;
+    font-size: 19px;
+    margin-top: -20px;
+    /* background-color: red; */
+    display: flex;
+}
+
+.texttitless{
+    margin-left: 20px;
+    font-weight: 200;
+}
+.iconofradio{
+    margin-right: 25px;
+}
+
+.ml{
+    margin-left: 400px;
+}
+#kg{
+    margin-left: 425px;
+}
+
+.left123{
+    width: 250px;
+    height: 80px;
+    /* background-color: blueviolet; */
+}
+
+.right123{
+    width:330px ;
+    /* background-color: cadetblue; */
+}
+
+#view{
+    font-weight: 700;
+    color:#FEA116;
+}
+
+#cart{
+    color: white;
+    border-radius: 10px;
+    width: 300px;
+    height: 40px;
+    border: 20px;
+    background-color: rgb(38, 210, 38);
+    font-size:20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: center;
+}

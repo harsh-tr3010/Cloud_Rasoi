@@ -1,0 +1,124 @@
+._ms12{
+    width: 1745px;
+    height: 728px;
+    
+}
+
+.headingrasoiii{
+    width:1200px;
+    height: 80px;
+   
+}
+#_orr001{
+    width: 1200px;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#_tsh002{
+    margin-left: 30px;
+    font-size: 30px;
+}
+#buttonrasoi1{
+    margin-top: 10px;
+    margin-left: 20px;
+    text-align: center;
+    border-radius: 20px;
+    width:125px;
+    height:30px;
+    background-color:white;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+
+}
+.buttonsrasoi{
+    width:1200px;
+    height:40px;
+    
+}
+
+._fmde101{
+    width:1740px;
+    height:600px;
+    margin-top: 50px;
+   
+    
+}
+#_pte004{
+    font-size:45px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+._dbr009{
+    width:1700px;
+    height:500px;
+    margin-left: 20px;
+    display: flex;
+    
+}
+.flexboxforfood{
+    margin-top: 30px;
+    width:280px;
+    height:320px;
+    margin-left: 20px;
+    border: none;
+}
+.imageforboxforfood{
+    
+    width:280px;
+    height:200px;
+    border-radius: 20px;
+    margin-right: 70px;
+}
+
+._im1{
+    background-size: cover;
+}
+
+._im2{
+    /* background-image: url('img/sdc.jpg'); */
+    background-size: cover;
+}
+._im3{
+    /* background-image: url('img/saihub.avif'); */
+    background-size: cover;
+}
+._im4{
+    /* background-image: url('img/sbbmb.webp'); */
+    background-size: cover;
+}
+.contentforboxforfood{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+._tok12{
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+}
+
+
+._fsi00{
+    color: white;
+    font-size: 17px;
+}
+._is12{
+    background-color: green;
+    border-radius: 50%;
+}
+
+._is13{
+    margin-left: 5px;
+    font-size: 17px;
+}
+._adt14{
+    font-size: 20px;
+}
+
+._rte003{
+    margin-top: 150px;
+}

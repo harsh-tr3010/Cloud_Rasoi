@@ -1,0 +1,117 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+._lbd101{
+    width: 350px;
+    height: 500px;
+    display: flex;
+    margin-left: -350px;
+    margin-bottom: 300px;
+}
+
+._bol101{
+    width: 70px;
+    height: 70px;
+    /* background-color: violet; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+._bob202{
+    font-size: 20px;
+    text-align: center;
+}
+
+._logo009{
+    align-self: center;
+}
+
+._bob102{
+    width: 100px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    /* color: grey; */
+    /* background-color: yellow; */
+}
+
+._bob202{
+    color: rgb(74, 74, 74);
+}
+
+._bob202:hover{
+    color: #fea116;
+}
+
+._br8901{
+    background-color: white;
+    width:1745px;
+    height:828px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+._by8901{
+    margin-bottom: 50px;
+    /* background-color: palegreen; */
+    height:480px;
+    width:500px;
+}
+._iu8901{
+    text-align: center;
+    margin-top: 20px;
+}
+._mx8901{
+    /* background-color: antiquewhite; */
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+._bs8901{
+    width:500px;
+    height:150px;
+    /* background-color: cadetblue; */
+    display: flex;
+    flex-direction: column;
+}
+.btn8901{
+    width:400px;
+    height:50px;
+    background-color:#fc8019;
+    text-align: center;
+    border-radius: 7px;
+    border:none;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 20px;
+    color:white;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.btn8902{
+    width:400px;
+    height:50px;
+    background-color:#efebe8;
+    text-align: center;
+    border-radius: 7px;
+    border:none;
+    /* border: 1px solid rgb(105, 104, 104); */
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    color:rgb(34, 33, 33);
+}
+.btn8901:hover{
+    background-color: rgb(41, 41, 228);
+}
+.btn8902:hover{
+    background-color: rgb(41, 41, 228);
+    color:white;
+}

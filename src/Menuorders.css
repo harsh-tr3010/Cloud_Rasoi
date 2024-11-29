@@ -1,0 +1,234 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.btt008{
+    width: 120px;
+    height: 45px;
+    margin-top: 5px;
+    border-radius: 20px;
+    margin-right: 50px;
+    text-align: center;
+    background-color: #fea116;
+}
+._rmtet00{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+._mn2510{
+    width:1745px;
+    height:730px;
+    /* background-color: tomato; */
+    display: flex;
+}
+._lx2510{
+    /* background-color: #d9f852; */
+    margin-top:0px;
+    width:350px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+._rx2510{
+    /* background-color: blueviolet; */
+    width:1300px;
+    height:700px;
+    display: flex;
+    flex-direction: column;
+}
+._ur2510{
+    /* background-color: azure; */
+    width:690px;
+    height:86px;
+}
+._lr2510{
+    /* background-color: crimson; */
+    width:690px;
+    height:630px;
+    display: flex;
+}
+._ux25101{
+    /* background-color: rgb(157, 130, 157); */
+    width:1200px;
+    height:620px;
+}
+.photoupload{
+    width: 800px;
+    height: 600px;
+    margin-left: 200px;
+}
+
+._fomo009{
+    width: 480px;
+    height: 460px;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 70px;
+}
+
+.h_llo009{
+    font-size: 20px;
+}
+/* ._lx25101{
+    background-color: palevioletred;
+    width:600px;
+    height:630px;
+} */
+/* ._it2510{
+    background-color: #FEA116;
+    width:300px;
+    height:700px;
+
+} */
+._lt25100{
+    /* background-color: peachpuff; */
+    width:300px;
+    height:680px;
+    display: flex;
+    flex-direction: column;
+}
+._it678{
+    display: flex;
+}
+#cr56{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+#dash789{
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 80px;
+    margin-top: -20px;
+}
+.box189{
+    width:300px;
+    height:100px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:black;
+
+}
+.box289{
+    width:300px;
+    height:150px;
+    /* background-color: darkgreen; */
+}
+.box389{
+    width:300px;
+    height: 180px;
+    background-color: white;
+    color:rgb(77, 75, 75);
+    border-bottom:1px solid rgb(199, 198, 198) ;
+}
+.box489{
+    width:300px;
+    height:50px;
+    margin-top: 20px;
+    /* background-color: purple; */
+    background-color: white;
+    color: rgb(77, 75, 75);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    border-bottom: 1px solid rgb(199, 198, 198) ;
+ 
+}
+
+.box489 p{
+    font-size: 25px;
+    text-align: center;
+    display: inline;
+    /* flex-direction: row; */
+    margin-left: 26px;
+
+    
+
+}
+/* .box489:hover{
+    background-color: rgb(102, 104, 105);
+    
+  
+} */
+.box489 i{
+    font-size: 25px;
+    margin-bottom: -20px;
+    margin-left: 20px;
+}
+
+.box589{
+    width:300px;
+    height:50px;
+    background-color: white;
+    color: rgb(77, 75, 75);
+    display: flex;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    border-bottom: 1px solid rgb(199, 198, 198) ;
+}
+/* 
+.box589:hover{
+    background-color:rgb(102, 104, 105) ;
+} */
+.box589 p{
+    font-size: 25px;
+    margin-left: 14px;
+}
+.box589 i{
+    font-size: 25px;
+    margin-left: 20px;
+}
+.inpout56{
+    width:250px;
+    height:50px;
+    /* background-color: rgb(97, 96, 96); */
+    /* border:none; */
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+  
+    color:rgb(25, 25, 25);
+    
+}
+.inpout56 p{
+    margin-top: 5px;
+    margin-right: 0px;
+    margin-left: -110px;
+}
+.content678{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.content6789{
+    font-size: 20px;
+    margin-top: 10px;
+    text-decoration: underline;
+    margin-left: 20px;
+}
+.item78{
+    width:400px;
+    height:40px;
+    /* background-color: palegreen; */
+    font-size: 20px;
+    display: flex;
+
+
+}
+.item78 p{
+    margin-left: 10px;
+    margin-top: 2px;
+}
+.item78 i{
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.box689{
+    width:300px;
+    height:90px;
+    background-color:white;
+}
+
